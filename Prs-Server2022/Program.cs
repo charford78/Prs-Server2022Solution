@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Prs_Server2022.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
